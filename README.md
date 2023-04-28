@@ -5,7 +5,7 @@ Welcome to my CV website repository! This repository contains all of the HTML an
 The primary objective of this website is to showcase my skills, work experience, education and achievements in a clear and concise manner. Additionally, I wanted the website to be visually attractive and simple to navigate, regardless of the device it's viewed on.
 
 ## Live Demo
-To view the website, simply open the index.html file in your preferred web browser. Alternatively, you can visit the live version of the website at https://saheb2002.github.io/My-CV-using-CSS-and-HTML/.
+To view the website, simply open the index.html file in your preferred web browser. Alternatively, you can visit the live version of the website at https://saheb2002.github.io/3-My-CV-using-CSS-and-HTML/.
 
 ## Technologies Used
 HTML, CSS
