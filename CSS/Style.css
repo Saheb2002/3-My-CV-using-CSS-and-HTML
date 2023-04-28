@@ -90,7 +90,7 @@ a:hover {
 }
 
 .intro {
-    width:34%;
+    width:41%;
     margin:auto;
 }
 
@@ -116,6 +116,11 @@ a:hover {
 }
 
 /* Contact me part */
+
+.invitation {
+    width:60%;
+    margin:40px auto 60px;
+}
 
 .contact-message {
     width:40%;
